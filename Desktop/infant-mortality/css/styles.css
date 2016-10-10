@@ -1,0 +1,24 @@
+Body {
+  font-family:"Helvetica Neue",sans-serif;
+}
+.title,.sub-title,.source{
+  width:800px;
+}
+.title {
+  font-size: 2em;
+  font-weight: 900;
+}
+.sub-title{
+  font-size: 1.5em;
+  font-style: italic;
+}
+.source{
+  color:#888;
+}
+
+
+
+#chart {
+  width:800px;
+  Height:500px;
+}
